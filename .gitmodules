@@ -4,6 +4,3 @@
 [submodule "dep/StandardCAD"]
 	path = dep/StandardCAD
 	url = git@github.com:Matthew-Papesh/StandardCAD.git
-[submodule "dep/GitCAD"]
-	path = dep/GitCAD
-	url = git@github.com:Desktop-CNC/GitCAD.git
